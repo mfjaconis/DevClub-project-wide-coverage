@@ -3,6 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
+  font-weight: 400;
 }
 
 .menu-header {
@@ -41,7 +42,6 @@
 }
 
 .img-header-logo {
-  display: inline-block;
   width: 595.178px;
   height: 500.005px;
 

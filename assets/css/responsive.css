@@ -1,0 +1,47 @@
+@media screen and (max-width: 750px) {
+
+  a {
+    display: none;
+  }
+
+  main{
+    width: 90%;
+  }
+
+  .menu-header {
+    margin-top: 20px;
+    position: fixed;
+    left: 65%;
+  }
+
+  .main-section {
+    width: auto;
+    margin: 183px 0 20px 0;
+    text-align: center;
+  }
+
+  .img-header-logo {
+    width: 85%;
+    margin: auto;
+    position: absolute;
+    top: 600px;
+    left: 5%;
+  }
+
+  h1 {
+    text-align: center;
+    margin: auto;
+    font-weight: 700;
+  }
+
+  p {
+    font-size: 18px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    margin: 28px 43px;
+  }
+
+  span {
+    margin: auto;
+  }
+}
